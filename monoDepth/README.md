@@ -1,3 +1,7 @@
+# Para los de OpenVINO
+
+Abran README_Mathi.txt para ver cómo usar :p
+
 # MonoDepth Python Demo
 
 This topic demonstrates how to run the MonoDepth demo application, which produces a disparity map for a given input image.
